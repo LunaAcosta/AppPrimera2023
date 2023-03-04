@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287020880471",
+    "project_id": "appprimera2023",
+    "storage_bucket": "appprimera2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287020880471:android:4606851ba085a1685d0912",
+        "android_client_info": {
+          "package_name": "com.example.appprimera2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287020880471-mhmmck420jh2c2t42kq94edk9t3h06lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appprimera2023",
+            "certificate_hash": "52f289a794a726493ebada05946c522f504860f8"
+          }
+        },
+        {
+          "client_id": "287020880471-buop7072cu007trqeraj1d1e6qvq53t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_jHCZn2YifxFb5LS3Ou71TH5WaXy0AYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287020880471-buop7072cu007trqeraj1d1e6qvq53t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
